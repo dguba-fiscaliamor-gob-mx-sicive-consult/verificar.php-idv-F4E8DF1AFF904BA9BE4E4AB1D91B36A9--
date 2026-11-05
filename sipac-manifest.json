@@ -1,7 +1,10 @@
 {
   "idv": "F4E8DF1AFF904BA9BE4E4AB1D91B36A9",
   "folio": "SIP-F4E8DF1A",
-  "exportedAt": "2026-11-05T07:33:32.261Z",
+  "issuedOn": "2026-10-30",
+  "validUntil": "2026-11-19",
+  "validityDays": 20,
+  "exportedAt": "2026-11-05T12:51:32.235Z",
   "pdfRepo": "PDF-pdfconstancia.php-idv-F4E8DF1AFF904BA9BE4E4AB1D91B36A9--",
   "consultationRepo": "verificar.php-idv-F4E8DF1AFF904BA9BE4E4AB1D91B36A9--"
 }
